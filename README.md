@@ -16,7 +16,7 @@ New mods will be added as updates become available.
 
 Features
 -
-✔️ 410+ Quests
+✔️ 310+ Quests
 ✔️ 100+ Mods
 ✔️ Optimized with Shader Support
 ✔️ 8 Better Stucture ( YUNG's )

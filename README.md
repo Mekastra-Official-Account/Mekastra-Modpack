@@ -1,7 +1,7 @@
 # Mekastra
 Sponsor :
 
-link1 https://www.kinetichosting.net/partners/Mekastra/order link1
+https://www.kinetichosting.net/partners/Mekastra/order
 
 ⚠️Description from Modpack on Curseforge⚠️
 
